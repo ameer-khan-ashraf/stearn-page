@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: #161616;
+}
+.ant-modal-header {
+  border-radius: 20px 20px 0px 0px;
+  background: #262626;
+  color: #C6C6C6;
+}
+.ant-modal-content {
+  border-radius: 20px 20px 20px 20px;
+  color: #C6C6C6;
+  background: #262626;
+}
+.ant-modal-title,.ant-modal-close-x{
+  color: #C6C6C6;
+}
